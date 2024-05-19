@@ -61,8 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arunak7887&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanketparsewar97&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunak7887&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketparsewar97&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunak7887&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar97&layout=compact&theme=cobalt&hide_border=true" />
