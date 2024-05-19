@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Code_With_Arun</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunak7887&label=Profile%20views&color=0e75b6&style=flat" alt="arunak7887" /> </p>
+<h1 align="center">Hi 👋, I'm Code_With_Sanket</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunak7887&label=Profile%20views&color=0e75b6&style=flat" alt="sanketparsewar" /> </p>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=arunak7887&theme=discord)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=discord)
 
 ---
 
