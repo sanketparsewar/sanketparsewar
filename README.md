@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanketparsewar](https://github.com/sanketparsewar)
 
-- 📫 How to reach me *arunkinwad02@gmail.com*
+- 📫 How to reach me *sanket.parsewar97@gmail.com*
 <h3 align="left">Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
