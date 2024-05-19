@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Code_With_Sanket</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunak7887&label=Profile%20views&color=0e75b6&style=flat" alt="sanketparsewar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketparsewar&label=Profile%20views&color=0e75b6&style=flat" alt="sanketparsewar" /> </p>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=discord)
 
@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 I’m currently learning *Core_Java,Javascript,Spring,Spring_Boot,React,Html,Css,BootStrap,Jdbc,Servlet,Jsp*
 
-- 👨‍💻 All of my projects are available at [https://github.com/arunak7887](https://github.com/arunak7887)
+- 👨‍💻 All of my projects are available at [https://github.com/sanketparsewar](https://github.com/sanketparsewar)
 
 - 📫 How to reach me *arunkinwad02@gmail.com*
 <h3 align="left">Languages:</h3>
