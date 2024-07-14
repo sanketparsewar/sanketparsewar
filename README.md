@@ -18,11 +18,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-- 🔭 I’m currently working on *Spring,Spring_Boot,React*
+- 🔭 I’m currently working on *MySQL, Java, JDBC, Hibernate, Spring, and Spring_Boot*
 
-- 🌱 I’m currently learning *Core_Java,Javascript,Spring,Spring_Boot,React,Html,Css,BootStrap,Jdbc,Servlet,Jsp*
+- 🌱 I’m currently learning *Core_Java, Javascript, Spring, Spring_Boot, HTML, CSS, BootStrap, Jdbc, Servlet, and Jsp*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanketparsewar](https://github.com/sanketparsewar)
+
+- 🔗 View my LinkedIn profile at [https://www.linkedin.com/in/sanketparsewar97](https://www.linkedin.com/in/sanketparsewar97)
+
+- 📄 My Updated Resume [Resume](https://www.linkedin.com/in/sanketparsewar97/overlay/1720705836164/single-media-viewer/?profileId=ACoAADQDar8BiC1YxMTtQUqumeqdByPPw05MDg4)
 
 - 📫 How to reach me *sanket.parsewar97@gmail.com*
 <h3 align="left">Languages:</h3>
