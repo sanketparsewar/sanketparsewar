@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Code_With_Sanket</h1>
+<h1 align="center"><b>Hi , I'm Sanket Parsewar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketparsewar&label=Profile%20views&color=0e75b6&style=flat" alt="sanketparsewar" /> </p>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=discord)
