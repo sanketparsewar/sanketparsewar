@@ -68,11 +68,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanketparsewar&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-# 📊 GitHub Stats:
-<div align="center">
-<img src="https://raw.githubusercontent.com/sanketparsewar/sanketparsewar/output/snake.svg" alt="Snake animation" />
-</div>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar&layout=compact&theme=cobalt&hide_border=true" />
