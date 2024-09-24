@@ -30,6 +30,91 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📄 My Updated [Resume](https://www.linkedin.com/in/sanketparsewar97/overlay/1720705836164/single-media-viewer/?profileId=ACoAADQDar8BiC1YxMTtQUqumeqdByPPw05MDg4)
 
 - 📫 How to reach me *sanket.parsewar97@gmail.com*
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+<h3>Programming Languages</h3>
+<p align="center">
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+      <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+        &nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+    <a>
+        &nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</p>
+
+<br>
+<h3>Front-End Technologies</h3>
+<p align="center">
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/html_5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/css_3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+        <a>
+            <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+</p>
+
+<br>
+<h3>Java Technologies</h3>
+<p align="center">
+        <td><a><img src="https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white" alt="JSP"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white" alt="Servlets"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a><img src="https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</p>
+
+
+
+
+
+
+
 <h3 align="left">Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
