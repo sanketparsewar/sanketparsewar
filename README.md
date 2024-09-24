@@ -48,11 +48,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </td>
 <td>
     <a>
-      <img src="https://img.shields.io/badge/typescript%20-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</td>
-<td>
-    <a>
         &nbsp;
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
@@ -84,12 +79,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-    <td>
+<!--     <td>
         <a>
             <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
+    </td> -->
     <td>
         <a>
             <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -102,11 +97,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h3>Java Technologies</h3>
 <p align="center">
         <td><a><img src="https://img.shields.io/badge/jdbc%20-%23ED8B00.svg?&style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a><img src="https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white" alt="JSP"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a><img src="https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white" alt="Servlets"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<!--         <td><a><img src="https://img.shields.io/badge/jsp%20-%23ED8B00.svg?&style=for-the-badge&logo=jsp&logoColor=white" alt="JSP"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td> -->
+<!--         <td><a><img src="https://img.shields.io/badge/Servlets%20-%23ED8B00.svg?&style=for-the-badge&logo=servlets&logoColor=white" alt="Servlets"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td> -->
         <td><a><img src="https://img.shields.io/badge/hibernate%20-gray.svg?&style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><a><img src="https://img.shields.io/badge/spring%20-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a><img src="https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<!--         <td><a><img src="https://img.shields.io/badge/spring_boot%20-%6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>&nbsp;&nbsp;&nbsp;&nbsp;</td> -->
 </p>
 
 
@@ -115,17 +110,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-<h3 align="left">Languages:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 </p>
 <h3 align="left">Databases:</h3>
