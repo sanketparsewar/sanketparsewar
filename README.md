@@ -69,9 +69,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 # 📊 GitHub Stats:
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/sanketparsewar/sanketparsewar/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical)
 
