@@ -25,9 +25,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-- 🔭 I’m currently working on *MySQL, Java, JDBC, Hibernate, Spring, and Spring_Boot*
+- 🔭 I’m currently working on HTML, CSS, BootStrap, JavaScript, TypeScript, and Angular
 
-- 🌱 I’m currently learning *Core_Java, Javascript, Spring, Spring_Boot, HTML, CSS, BootStrap, Jdbc, Servlet, and Jsp*
+- 🌱 My known techs *Core_Java, Jdbc, MySQL, Python, Javascript, HTML, CSS, BootStrap, Angular, Git
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanketparsewar](https://github.com/sanketparsewar)
 
