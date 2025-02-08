@@ -85,18 +85,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-<!--     <td>
+    <td>
         <a>
             <img src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-    </td> -->
-    <td>
+    </td>
+<!--     <td>
         <a>
             <img src="https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
+    </td> -->
 </p>
 
 <br>
