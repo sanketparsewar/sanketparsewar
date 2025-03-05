@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketparsewar&label=Profile%20views&color=0e75b6&style=flat" alt="sanketparsewar" /> </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<>+I'm+InnoDareDevil,;Code+is+my+Battlefield,;Creativity+is+my+Superpower!,;A+passionate+Coder,;Tech+Enthusiast,;Lifelong+Learner,;Always+Exploring+New+Horizons..</>">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<>+Welcome+to+My+Digital+Realm,;Code+is+my+Battlefield,;Creativity+is+my+Superpower!,;A+passionate+Coder,;Tech+Enthusiast,;Lifelong+Learner,;Always+Exploring+New+Horizons..</>">
 </p>
+
 
 
 
