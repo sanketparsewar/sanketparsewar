@@ -36,7 +36,7 @@ const sanket = {
 - 🌱 Deep diving into **Next.js**, **TypeScript** patterns & **System Design**
 - ✍️ Writing technical blogs and documentation
 - 🎯 Solving problems on **LeetCode** & **GeeksforGeeks** 
-- 🚀 Contributing to open source projects
+- 🚀 Working on project development
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
