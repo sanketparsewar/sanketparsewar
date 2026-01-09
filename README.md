@@ -20,10 +20,9 @@
 
 ```typescript
 const sanket = {
-    location: "Mumbai, India 🇮🇳",
+    location: "Pune, India 🇮🇳",
     role: "Software Engineer 💻",
-    currentFocus: ["Angular", "React", "Node.js", "Spring Boot"],
-    learning: ["Next.js", "Microservices", "Cloud Technologies"],
+    currentFocus: ["Angular", "React", "Node.js", "Next.js"],
     interests: ["Full Stack Dev", "DSA", "Tech Writing"],
     funFact: "I debug in my dreams! 💡"
 };
