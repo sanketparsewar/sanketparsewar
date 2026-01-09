@@ -144,7 +144,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanketparsewar&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Snake animation](https://github.com/sanketparsewar/sanketparsewar/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical)
 
