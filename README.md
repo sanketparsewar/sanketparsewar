@@ -167,11 +167,7 @@ const sanket = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph"/>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
