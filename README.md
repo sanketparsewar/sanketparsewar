@@ -160,19 +160,19 @@ const sanket = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sanketparsewar&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&border_radius=10" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=sanketparsewar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=sanketparsewar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&border_radius=10" alt="Contribution Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -180,10 +180,12 @@ const sanket = {
 ## 🐍 Watch My Contributions Get Eaten!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanketparsewar/sanketparsewar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanketparsewar/sanketparsewar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanketparsewar/sanketparsewar/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+> **Note:** To enable your own snake animation, follow the setup instructions in the workflow file below!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
