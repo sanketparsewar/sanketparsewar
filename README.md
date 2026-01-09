@@ -106,10 +106,6 @@ const sanket = {
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
   </a>
