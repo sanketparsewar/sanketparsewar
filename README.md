@@ -77,6 +77,10 @@ const sanket = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+    <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   </a>
@@ -99,6 +103,14 @@ const sanket = {
 <p align="center">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank">
@@ -208,7 +220,7 @@ const sanket = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sanketparsewar97/overlay/1720705836164/single-media-viewer/?profileId=ACoAADQDar8BiC1YxMTtQUqumeqdByPPw05MDg4" target="_blank">
+<a href="https://drive.google.com/file/d/1UX-ZX5SqucDC8X-zm1oMMwvhXhJ4NO-Q/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
 </a>
 
