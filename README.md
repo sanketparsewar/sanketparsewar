@@ -167,7 +167,7 @@ const sanket = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
