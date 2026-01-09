@@ -24,8 +24,7 @@ const sanket = {
     role: "Software Engineer 💻",
     currentFocus: ["Angular", "React", "Node.js", "Next.js"],
     interests: ["Full Stack Dev", "DSA", "Tech Writing"],
-    funFact: "I debug in my dreams! 💡",
-    lifePhilosophy: "Code. Coffee. Create. Repeat. ☕"
+    funFact: "I debug in my dreams! 💡"
 };
 ```
 
@@ -37,8 +36,7 @@ const sanket = {
 - 🌱 Deep diving into **Next.js**, **TypeScript** patterns & **System Design**
 - ✍️ Writing technical blogs and documentation
 - 🎯 Solving problems on **LeetCode** & **GeeksforGeeks** 
-- 🚀 Working on innovative project development
-- 💡 Exploring **AI/ML** integration in web apps
+- 🚀 Working on project development
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,7 +77,7 @@ const sanket = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ionicframework.com/" target="_blank">
+    <a href="https://ionicframework.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -111,7 +109,7 @@ const sanket = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -162,14 +160,6 @@ const sanket = {
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -177,25 +167,11 @@ const sanket = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=sanketparsewar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sanketparsewar&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketparsewar&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketparsewar&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -208,9 +184,11 @@ const sanket = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+> **Note:** To enable your own snake animation, follow the setup instructions in the workflow file below!
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Coding Profiles & Achievements
+## 🏆 Coding Profiles
 
 <div align="center">
 
@@ -232,18 +210,6 @@ const sanket = {
 
 </div>
 
-<br>
-
-<div align="center">
-  
-### 🎯 My Coding Journey in Numbers
-
-| 💪 Problem Solving | 🔥 Streak | ⭐ Contributions |
-|:------------------:|:---------:|:----------------:|
-| 500+ Problems Solved | 100+ Days | 1000+ This Year |
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Connect With Me
@@ -258,10 +224,6 @@ const sanket = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://justsanket.framer.website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1UX-ZX5SqucDC8X-zm1oMMwvhXhJ4NO-Q/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
 </a>
@@ -271,23 +233,10 @@ const sanket = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default" alt="Readme Quotes"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Open for Opportunities
-
-<div align="center">
-
-```diff
-+ 🚀 Open to Full-Time Opportunities
-+ 💼 Available for Freelance Projects
-+ 🤝 Open to Collaborations
-+ 📚 Happy to Mentor Beginners
-```
-
-**Let's build something amazing together! 🚀**
+  
+### 💭 Random Dev Quote
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -299,45 +248,6 @@ const sanket = {
 
 <div align="center">
   
-### Show some ❤️ by starring some repositories!
+  ### Show some ❤️ by starring some of the repositories!
   
-[![](https://visitcount.itsvg.in/api?id=sanketparsewar&icon=0&color=1)](https://visitcount.itsvg.in)
-
 </div>
-
-<!-- Snake Animation Setup Instructions
-To enable your own snake animation:
-
-1. Create .github/workflows/snake.yml in your repository
-2. Add the following content:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sanketparsewar
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Go to Actions tab and run the workflow manually
-4. Update snake URLs in README to your repo
--->
